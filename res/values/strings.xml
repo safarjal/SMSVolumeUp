@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMSVolumeUp</string>
+    <string name="hello_world">The purpose of this applet is to be able to call a phone
+         that is silent, by first smsing a string that will set the phone ringer volume 
+         to max. The possible applications are if you are trying to locate your silent phone, 
+         or if some trusted person needs to call you urgently, and you have given him or
+          her the key to un-silent your phone.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
